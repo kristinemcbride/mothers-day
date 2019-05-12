@@ -1,0 +1,22 @@
+.footer {
+  display: flex;
+  height: 200px;
+  align-items: center;
+  background-color: rgb(44, 42, 42);
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(32, 221, 136);
+  font-size: 30px;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+}
+
+.footer p {
+  color: rgba(179, 179, 179, 0.7);
+}
